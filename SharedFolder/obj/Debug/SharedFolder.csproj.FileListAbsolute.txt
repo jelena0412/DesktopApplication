@@ -1,0 +1,6 @@
+C:\Users\Jelena\Desktop\VP-Biblioteka\Biblioteka\SharedFolder\bin\Debug\SharedFolder.dll
+C:\Users\Jelena\Desktop\VP-Biblioteka\Biblioteka\SharedFolder\bin\Debug\SharedFolder.pdb
+C:\Users\Jelena\Desktop\VP-Biblioteka\Biblioteka\SharedFolder\obj\Debug\SharedFolder.csproj.AssemblyReference.cache
+C:\Users\Jelena\Desktop\VP-Biblioteka\Biblioteka\SharedFolder\obj\Debug\SharedFolder.csproj.CoreCompileInputs.cache
+C:\Users\Jelena\Desktop\VP-Biblioteka\Biblioteka\SharedFolder\obj\Debug\SharedFolder.dll
+C:\Users\Jelena\Desktop\VP-Biblioteka\Biblioteka\SharedFolder\obj\Debug\SharedFolder.pdb

@@ -1,0 +1,11 @@
+C:\Users\Jelena\Desktop\VP-Biblioteka\Biblioteka\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Jelena\Desktop\VP-Biblioteka\Biblioteka\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Jelena\Desktop\VP-Biblioteka\Biblioteka\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Jelena\Desktop\VP-Biblioteka\Biblioteka\BusinessLayer\bin\Debug\SharedFolder.dll
+C:\Users\Jelena\Desktop\VP-Biblioteka\Biblioteka\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Jelena\Desktop\VP-Biblioteka\Biblioteka\BusinessLayer\bin\Debug\SharedFolder.pdb
+C:\Users\Jelena\Desktop\VP-Biblioteka\Biblioteka\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Jelena\Desktop\VP-Biblioteka\Biblioteka\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Jelena\Desktop\VP-Biblioteka\Biblioteka\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Jelena\Desktop\VP-Biblioteka\Biblioteka\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Jelena\Desktop\VP-Biblioteka\Biblioteka\BusinessLayer\obj\Debug\BusinessLayer.pdb

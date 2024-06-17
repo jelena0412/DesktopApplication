@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{392198DA-0765-4C0E-8BC2-C551AB76E4A7}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\presentationlayer\\prijava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{392198DA-0765-4C0E-8BC2-C551AB76E4A7}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\prijava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392198DA-0765-4C0E-8BC2-C551AB76E4A7}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\jelena\\desktop\\vp-biblioteka\\biblioteka\\presentationlayer\\prijava.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392198DA-0765-4C0E-8BC2-C551AB76E4A7}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\prijava.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392198DA-0765-4C0E-8BC2-C551AB76E4A7}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\jelena\\desktop\\vp-biblioteka\\biblioteka\\presentationlayer\\iznajmljeneknjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392198DA-0765-4C0E-8BC2-C551AB76E4A7}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\iznajmljeneknjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392198DA-0765-4C0E-8BC2-C551AB76E4A7}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\presentationlayer\\prikazknjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392198DA-0765-4C0E-8BC2-C551AB76E4A7}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\prikazknjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392198DA-0765-4C0E-8BC2-C551AB76E4A7}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\presentationlayer\\prikazknjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{392198DA-0765-4C0E-8BC2-C551AB76E4A7}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\prikazknjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9929F5F9-430E-4666-882A-65ADF0ACCEFF}|DataLayer\\DataLayer.csproj|C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\datalayer\\knjigarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9929F5F9-430E-4666-882A-65ADF0ACCEFF}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\knjigarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9929F5F9-430E-4666-882A-65ADF0ACCEFF}|DataLayer\\DataLayer.csproj|C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\datalayer\\clanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9929F5F9-430E-4666-882A-65ADF0ACCEFF}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\clanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB464625-6232-4555-BCAB-92C3876841B4}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\businesslayer\\iznajmljivanjebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB464625-6232-4555-BCAB-92C3876841B4}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\iznajmljivanjebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB464625-6232-4555-BCAB-92C3876841B4}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\businesslayer\\knjigabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB464625-6232-4555-BCAB-92C3876841B4}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\knjigabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392198DA-0765-4C0E-8BC2-C551AB76E4A7}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\presentationlayer\\registracija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{392198DA-0765-4C0E-8BC2-C551AB76E4A7}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\registracija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB464625-6232-4555-BCAB-92C3876841B4}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\businesslayer\\clanbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB464625-6232-4555-BCAB-92C3876841B4}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\clanbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9929F5F9-430E-4666-882A-65ADF0ACCEFF}|DataLayer\\DataLayer.csproj|C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\datalayer\\iznajmljivanjerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9929F5F9-430E-4666-882A-65ADF0ACCEFF}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\iznajmljivanjerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Biblioteka/True/SqlTable/dbo.Clanovi.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392198DA-0765-4C0E-8BC2-C551AB76E4A7}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\presentationlayer\\prijava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392198DA-0765-4C0E-8BC2-C551AB76E4A7}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\prijava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392198DA-0765-4C0E-8BC2-C551AB76E4A7}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\presentationlayer\\iznajmljeneknjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{392198DA-0765-4C0E-8BC2-C551AB76E4A7}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\iznajmljeneknjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392198DA-0765-4C0E-8BC2-C551AB76E4A7}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\presentationlayer\\pretragaknjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392198DA-0765-4C0E-8BC2-C551AB76E4A7}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\pretragaknjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392198DA-0765-4C0E-8BC2-C551AB76E4A7}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\presentationlayer\\pretragaknjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{392198DA-0765-4C0E-8BC2-C551AB76E4A7}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\pretragaknjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7650CEE9-5D8E-40D2-B2BB-532B5A375292}|SharedFolder\\SharedFolder.csproj|C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\sharedfolder\\models\\iznajmljivanje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7650CEE9-5D8E-40D2-B2BB-532B5A375292}|SharedFolder\\SharedFolder.csproj|solutionrelative:sharedfolder\\models\\iznajmljivanje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7650CEE9-5D8E-40D2-B2BB-532B5A375292}|SharedFolder\\SharedFolder.csproj|C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\sharedfolder\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7650CEE9-5D8E-40D2-B2BB-532B5A375292}|SharedFolder\\SharedFolder.csproj|solutionrelative:sharedfolder\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392198DA-0765-4C0E-8BC2-C551AB76E4A7}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\presentationlayer\\registracija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392198DA-0765-4C0E-8BC2-C551AB76E4A7}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\registracija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prijava.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\PresentationLayer\\Prijava.Designer.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Prijava.Designer.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\PresentationLayer\\Prijava.Designer.cs",
+              "RelativeToolTip": "PresentationLayer\\Prijava.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:22:51.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IznajmljivanjeBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\BusinessLayer\\IznajmljivanjeBusiness.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\IznajmljivanjeBusiness.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\BusinessLayer\\IznajmljivanjeBusiness.cs",
+              "RelativeToolTip": "BusinessLayer\\IznajmljivanjeBusiness.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T13:36:49.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KnjigaBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\BusinessLayer\\KnjigaBusiness.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\KnjigaBusiness.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\BusinessLayer\\KnjigaBusiness.cs",
+              "RelativeToolTip": "BusinessLayer\\KnjigaBusiness.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T13:33:55.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Registracija.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\PresentationLayer\\Registracija.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Registracija.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\PresentationLayer\\Registracija.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\Registracija.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-05T22:27:12.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prijava.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\PresentationLayer\\Prijava.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Prijava.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\PresentationLayer\\Prijava.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\Prijava.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T13:49:34.897Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrikazKnjiga.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\PresentationLayer\\PrikazKnjiga.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\PrikazKnjiga.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\PresentationLayer\\PrikazKnjiga.cs",
+              "RelativeToolTip": "PresentationLayer\\PrikazKnjiga.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwBgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-07T14:28:22.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IznajmljeneKnjige.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\PresentationLayer\\IznajmljeneKnjige.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\IznajmljeneKnjige.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\PresentationLayer\\IznajmljeneKnjige.cs",
+              "RelativeToolTip": "PresentationLayer\\IznajmljeneKnjige.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAkwE8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T13:45:11.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrikazKnjiga.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\PresentationLayer\\PrikazKnjiga.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\PrikazKnjiga.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\PresentationLayer\\PrikazKnjiga.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\PrikazKnjiga.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-07T14:28:18.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KnjigaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\DataLayer\\KnjigaRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\KnjigaRepository.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\DataLayer\\KnjigaRepository.cs",
+              "RelativeToolTip": "DataLayer\\KnjigaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T13:28:22.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IznajmljivanjeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\DataLayer\\IznajmljivanjeRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\IznajmljivanjeRepository.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\DataLayer\\IznajmljivanjeRepository.cs",
+              "RelativeToolTip": "DataLayer\\IznajmljivanjeRepository.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAkwD8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T13:29:15.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClanBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\BusinessLayer\\ClanBusiness.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\ClanBusiness.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\BusinessLayer\\ClanBusiness.cs",
+              "RelativeToolTip": "BusinessLayer\\ClanBusiness.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T13:32:11.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\DataLayer\\ClanRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\ClanRepository.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\DataLayer\\ClanRepository.cs",
+              "RelativeToolTip": "DataLayer\\ClanRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwDMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T13:26:15.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.Clanovi [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Biblioteka/True/SqlTable/dbo.Clanovi.sql",
+              "ToolTip": "dbo.Clanovi [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-07T14:25:25.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Prijava.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\PresentationLayer\\Prijava.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Prijava.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\PresentationLayer\\Prijava.cs",
+              "RelativeToolTip": "PresentationLayer\\Prijava.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAA5wC0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T13:49:39.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IznajmljeneKnjige.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\PresentationLayer\\IznajmljeneKnjige.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\IznajmljeneKnjige.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\PresentationLayer\\IznajmljeneKnjige.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\IznajmljeneKnjige.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-07T13:45:09.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PretragaKnjiga.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\PresentationLayer\\PretragaKnjiga.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\PretragaKnjiga.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\PresentationLayer\\PretragaKnjiga.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\PretragaKnjiga.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-07T13:39:40.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PretragaKnjiga.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\PresentationLayer\\PretragaKnjiga.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\PretragaKnjiga.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\PresentationLayer\\PretragaKnjiga.cs",
+              "RelativeToolTip": "PresentationLayer\\PretragaKnjiga.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-04T16:47:44.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Iznajmljivanje.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\SharedFolder\\Models\\Iznajmljivanje.cs",
+              "RelativeDocumentMoniker": "SharedFolder\\Models\\Iznajmljivanje.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\SharedFolder\\Models\\Iznajmljivanje.cs",
+              "RelativeToolTip": "SharedFolder\\Models\\Iznajmljivanje.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T13:30:11.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\SharedFolder\\Constants.cs",
+              "RelativeDocumentMoniker": "SharedFolder\\Constants.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\SharedFolder\\Constants.cs",
+              "RelativeToolTip": "SharedFolder\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T13:26:39.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Registracija.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\PresentationLayer\\Registracija.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Registracija.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\VP-Biblioteka\\Biblioteka\\PresentationLayer\\Registracija.cs",
+              "RelativeToolTip": "PresentationLayer\\Registracija.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-05T22:27:16.342Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
